@@ -1,0 +1,11 @@
+/* 태블릿 */
+@media screen and (max-width:1024px){
+    main .page4 .creater a:nth-child(5) {display:none;}
+    header nav {display:none;}
+}
+/* 모바일 */
+@media screen and (max-width:768px){
+    main .page4 .creater a:nth-child(4) {display:none;}
+    main .gray_bg .page3 ul li:last-child {display:none;}
+    footer .footerR {display:none;}
+}
